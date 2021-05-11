@@ -1,3 +1,3 @@
 # AdminPage_TravelTL
 
-NodeJS + React + Postgresql
+NodeJS + Postgresql
